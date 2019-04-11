@@ -8,11 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for FLMaterialTextField.
-FOUNDATION_EXPORT double FLMaterialTextFieldVersionNumber;
 
-//! Project version string for FLMaterialTextField.
-FOUNDATION_EXPORT const unsigned char FLMaterialTextFieldVersionString[];
+FOUNDATION_EXPORT double MaterialTextFieldVersionNumber;
+FOUNDATION_EXPORT const unsigned char MaterialTextFieldVersionString[];
 
 #import <MaterialTextField/MFTextField.h>
 #import <MaterialTextField/UIColor+MaterialTextField.h>
+
